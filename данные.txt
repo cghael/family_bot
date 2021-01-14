@@ -7,13 +7,31 @@
         "language_code": "ru"
 
 Анна:
+        "id": 751791568,
+        "is_bot": false,
+        "first_name": "Anna",
+        "last_name": "Gorobets",
+        "username": "Anagobets"
 
 Папа:
+        "id": 1131059671,
+        "first_name": "Anna",
 
 Мама:
+        "id": 1419650956,
+        "is_bot": false,
+        "first_name": "Таня"
 
 Саша:
+        "id": 1174295859,
+        "is_bot": false,
+        "first_name": "Александр",
+        "last_name": "Ко"
 
 Сережа:
+        "id": 1385734161,
+        "is_bot": false,
+        "first_name": "Sergey",
+        "last_name": "Kops"
 
 Маша:
