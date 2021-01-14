@@ -1,157 +1,5 @@
 {
-    "id": 259609589,
-    "is_bot": false,
-    "first_name": "Anton",
-    "last_name": "Gorobets",
-    "username": "cghael",
-    "language_code": "ru"
-}{
-    "id": 259609589,
-    "is_bot": false,
-    "first_name": "Anton",
-    "last_name": "Gorobets",
-    "username": "cghael",
-    "language_code": "ru"
-}{
-    "id": 259609589,
-    "is_bot": false,
-    "first_name": "Anton",
-    "last_name": "Gorobets",
-    "username": "cghael",
-    "language_code": "ru"
-}{
-    "id": 1419650956,
-    "is_bot": false,
-    "first_name": "Таня"
-}{
-    "id": 1419650956,
-    "is_bot": false,
-    "first_name": "Таня"
-}{
-    "id": 751791568,
-    "is_bot": false,
-    "first_name": "Anna",
-    "last_name": "Gorobets",
-    "username": "Anagobets"
-}{
-    "id": 751791568,
-    "is_bot": false,
-    "first_name": "Anna",
-    "last_name": "Gorobets",
-    "username": "Anagobets"
-}{
-    "id": 259609589,
-    "is_bot": false,
-    "first_name": "Anton",
-    "last_name": "Gorobets",
-    "username": "cghael",
-    "language_code": "ru"
-}{
-    "id": 1419650956,
-    "is_bot": false,
-    "first_name": "Таня"
-}{
-    "id": 751791568,
-    "is_bot": false,
-    "first_name": "Anna",
-    "last_name": "Gorobets",
-    "username": "Anagobets"
-}{
-    "id": 259609589,
-    "is_bot": false,
-    "first_name": "Anton",
-    "last_name": "Gorobets",
-    "username": "cghael",
-    "language_code": "ru"
-}{
-    "id": 1419650956,
-    "is_bot": false,
-    "first_name": "Таня"
-}{
-    "id": 751791568,
-    "is_bot": false,
-    "first_name": "Anna",
-    "last_name": "Gorobets",
-    "username": "Anagobets"
-}{
-    "id": 1419650956,
-    "is_bot": false,
-    "first_name": "Таня"
-}{
-    "id": 1419650956,
-    "is_bot": false,
-    "first_name": "Таня"
-}{
-    "id": 259609589,
-    "is_bot": false,
-    "first_name": "Anton",
-    "last_name": "Gorobets",
-    "username": "cghael",
-    "language_code": "ru"
-}{
-    "id": 1174295859,
-    "is_bot": false,
-    "first_name": "Александр",
-    "last_name": "Ко"
-}{
-    "id": 751791568,
-    "is_bot": false,
-    "first_name": "Anna",
-    "last_name": "Gorobets",
-    "username": "Anagobets"
-}{
-    "id": 751791568,
-    "is_bot": false,
-    "first_name": "Anna",
-    "last_name": "Gorobets",
-    "username": "Anagobets"
-}{
-    "id": 259609589,
-    "is_bot": false,
-    "first_name": "Anton",
-    "last_name": "Gorobets",
-    "username": "cghael",
-    "language_code": "ru"
-}{
-    "id": 1385734161,
-    "is_bot": false,
-    "first_name": "Sergey",
-    "last_name": "Kops"
-}{
-    "id": 751791568,
-    "is_bot": false,
-    "first_name": "Anna",
-    "last_name": "Gorobets",
-    "username": "Anagobets"
-}{
-    "id": 751791568,
-    "is_bot": false,
-    "first_name": "Anna",
-    "last_name": "Gorobets",
-    "username": "Anagobets"
-}{
-    "id": 259609589,
-    "is_bot": false,
-    "first_name": "Anton",
-    "last_name": "Gorobets",
-    "username": "cghael",
-    "language_code": "ru"
-}{
-    "id": 259609589,
-    "is_bot": false,
-    "first_name": "Anton",
-    "last_name": "Gorobets",
-    "username": "cghael",
-    "language_code": "ru"
-}{
-    "id": 259609589,
-    "is_bot": false,
-    "first_name": "Anton",
-    "last_name": "Gorobets",
-    "username": "cghael",
-    "language_code": "ru"
-}{
-    "message_id": 70,
+    "message_id": 188,
     "from": {
         "id": 259609589,
         "is_bot": false,
@@ -161,32 +9,49 @@
         "language_code": "ru"
     },
     "chat": {
-        "id": -421795143,
-        "title": "Семейный клан 🏰",
-        "type": "group",
-        "all_members_are_administrators": true
-    },
-    "date": 1610611030,
-    "text": "конкретно нас замело)"
-}{
-    "message_id": 71,
-    "from": {
-        "id": 751791568,
-        "is_bot": false,
-        "first_name": "Anna",
+        "id": 259609589,
+        "first_name": "Anton",
         "last_name": "Gorobets",
-        "username": "Anagobets"
+        "username": "cghael",
+        "type": "private"
+    },
+    "date": 1610651235,
+    "text": "/hi",
+    "entities": [
+        {
+            "offset": 0,
+            "length": 3,
+            "type": "bot_command"
+        }
+    ]
+}{
+    "message_id": 190,
+    "from": {
+        "id": 259609589,
+        "is_bot": false,
+        "first_name": "Anton",
+        "last_name": "Gorobets",
+        "username": "cghael",
+        "language_code": "ru"
     },
     "chat": {
-        "id": -421795143,
-        "title": "Семейный клан 🏰",
-        "type": "group",
-        "all_members_are_administrators": true
+        "id": 259609589,
+        "first_name": "Anton",
+        "last_name": "Gorobets",
+        "username": "cghael",
+        "type": "private"
     },
-    "date": 1610611100,
-    "text": "Да я ж говорю там жесть!"
+    "date": 1610652175,
+    "text": "/hi",
+    "entities": [
+        {
+            "offset": 0,
+            "length": 3,
+            "type": "bot_command"
+        }
+    ]
 }{
-    "message_id": 72,
+    "message_id": 192,
     "from": {
         "id": 1419650956,
         "is_bot": false,
@@ -198,41 +63,67 @@
         "type": "group",
         "all_members_are_administrators": true
     },
-    "date": 1610612431,
+    "date": 1610653869,
+    "text": "Всем споки)🥱😴"
+}{
+    "message_id": 193,
+    "from": {
+        "id": 259609589,
+        "is_bot": false,
+        "first_name": "Anton",
+        "last_name": "Gorobets",
+        "username": "cghael",
+        "language_code": "ru"
+    },
+    "chat": {
+        "id": 259609589,
+        "first_name": "Anton",
+        "last_name": "Gorobets",
+        "username": "cghael",
+        "type": "private"
+    },
+    "date": 1610653940,
+    "text": "/hi",
+    "entities": [
+        {
+            "offset": 0,
+            "length": 3,
+            "type": "bot_command"
+        }
+    ]
+}{
+    "message_id": 194,
+    "from": {
+        "id": 1419650956,
+        "is_bot": false,
+        "first_name": "Таня"
+    },
+    "chat": {
+        "id": -421795143,
+        "title": "Семейный клан 🏰",
+        "type": "group",
+        "all_members_are_administrators": true
+    },
+    "date": 1610653990,
     "sticker": {
         "width": 512,
         "height": 512,
-        "emoji": "🤫",
-        "set_name": "UtyaDuck",
-        "is_animated": true,
+        "emoji": "💉",
+        "set_name": "VLozhkin",
+        "is_animated": false,
         "thumb": {
-            "file_id": "AAMCAgADGQEAA0hf__7Pe_feX2WjXWbKAAHM4H2gZIMAAkkCAAJWnb0KKpcMnQhTIQ7j-82VLgADAQAHbQADRSkAAh4E",
-            "file_unique_id": "AQAD4_vNlS4AA0UpAAI",
-            "file_size": 4904,
+            "file_id": "AAMCBAADGQEAA8JgAAGhJoeI7KHv4mK_CJLTazUEzgwAAkAFAAJRjM8BUpCorkxEA6DDR2YZAAQBAAdtAAP2KAACHgQ",
+            "file_unique_id": "AQADw0dmGQAE9igAAg",
+            "file_size": 8990,
             "width": 128,
             "height": 128
         },
-        "file_id": "CAACAgIAAxkBAANIX__-z3v33l9lo11mygABzOB9oGSDAAJJAgACVp29CiqXDJ0IUyEOHgQ",
-        "file_unique_id": "AgADSQIAAladvQo",
-        "file_size": 17039
+        "file_id": "CAACAgQAAxkBAAPCYAABoSaHiOyh7-JivwiS02s1BM4MAAJABQACUYzPAVKQqK5MRAOgHgQ",
+        "file_unique_id": "AgADQAUAAlGMzwE",
+        "file_size": 47304
     }
 }{
-    "message_id": 73,
-    "from": {
-        "id": 1419650956,
-        "is_bot": false,
-        "first_name": "Таня"
-    },
-    "chat": {
-        "id": -421795143,
-        "title": "Семейный клан 🏰",
-        "type": "group",
-        "all_members_are_administrators": true
-    },
-    "date": 1610612471,
-    "text": "Я зомбоящик не смотрю уже давно"
-}{
-    "message_id": 74,
+    "message_id": 195,
     "from": {
         "id": 259609589,
         "is_bot": false,
@@ -248,121 +139,7 @@
         "username": "cghael",
         "type": "private"
     },
-    "date": 1610612764,
-    "text": "qj"
-}{
-    "message_id": 81,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610615592,
-    "text": "j"
-}{
-    "message_id": 82,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610615645,
-    "text": "f"
-}{
-    "message_id": 83,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610615726,
-    "text": "fffff"
-}{
-    "message_id": 84,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610615762,
-    "text": "ddd"
-}{
-    "message_id": 85,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610615817,
-    "text": "fff"
-}{
-    "message_id": 86,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610616521,
+    "date": 1610654159,
     "text": "/hi",
     "entities": [
         {
@@ -372,7 +149,7 @@
         }
     ]
 }{
-    "message_id": 87,
+    "message_id": 196,
     "from": {
         "id": 259609589,
         "is_bot": false,
@@ -388,26 +165,7 @@
         "username": "cghael",
         "type": "private"
     },
-    "date": 1610617317,
-    "text": ";;"
-}{
-    "message_id": 88,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610617365,
+    "date": 1610654851,
     "text": "/hi",
     "entities": [
         {
@@ -417,7 +175,7 @@
         }
     ]
 }{
-    "message_id": 89,
+    "message_id": 198,
     "from": {
         "id": 259609589,
         "is_bot": false,
@@ -433,1144 +191,7 @@
         "username": "cghael",
         "type": "private"
     },
-    "date": 1610617470,
-    "text": "/hi",
-    "entities": [
-        {
-            "offset": 0,
-            "length": 3,
-            "type": "bot_command"
-        }
-    ]
-}{
-    "message_id": 90,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610617519,
-    "text": "/hi",
-    "entities": [
-        {
-            "offset": 0,
-            "length": 3,
-            "type": "bot_command"
-        }
-    ]
-}{
-    "message_id": 91,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610617588,
-    "text": "/hi",
-    "entities": [
-        {
-            "offset": 0,
-            "length": 3,
-            "type": "bot_command"
-        }
-    ]
-}{
-    "message_id": 92,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610617605,
-    "text": "/hi",
-    "entities": [
-        {
-            "offset": 0,
-            "length": 3,
-            "type": "bot_command"
-        }
-    ]
-}{
-    "message_id": 93,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610617640,
-    "text": "/hi",
-    "entities": [
-        {
-            "offset": 0,
-            "length": 3,
-            "type": "bot_command"
-        }
-    ]
-}{
-    "message_id": 94,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610618704,
-    "text": "/hi",
-    "entities": [
-        {
-            "offset": 0,
-            "length": 3,
-            "type": "bot_command"
-        }
-    ]
-}{
-    "message_id": 95,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610619264,
-    "text": "/hi",
-    "entities": [
-        {
-            "offset": 0,
-            "length": 3,
-            "type": "bot_command"
-        }
-    ]
-}{
-    "message_id": 95,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610619264,
-    "text": "/hi",
-    "entities": [
-        {
-            "offset": 0,
-            "length": 3,
-            "type": "bot_command"
-        }
-    ]
-}{
-    "message_id": 95,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610619264,
-    "text": "/hi",
-    "entities": [
-        {
-            "offset": 0,
-            "length": 3,
-            "type": "bot_command"
-        }
-    ]
-}{
-    "message_id": 96,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610619675,
-    "text": "/hi",
-    "entities": [
-        {
-            "offset": 0,
-            "length": 3,
-            "type": "bot_command"
-        }
-    ]
-}{
-    "message_id": 97,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610619804,
-    "text": "/hi",
-    "entities": [
-        {
-            "offset": 0,
-            "length": 3,
-            "type": "bot_command"
-        }
-    ]
-}{
-    "message_id": 98,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610625173,
-    "text": "/hi",
-    "entities": [
-        {
-            "offset": 0,
-            "length": 3,
-            "type": "bot_command"
-        }
-    ]
-}{
-    "message_id": 99,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610625208,
-    "text": "/hi",
-    "entities": [
-        {
-            "offset": 0,
-            "length": 3,
-            "type": "bot_command"
-        }
-    ]
-}{
-    "message_id": 100,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610625360,
-    "text": "/hi",
-    "entities": [
-        {
-            "offset": 0,
-            "length": 3,
-            "type": "bot_command"
-        }
-    ]
-}{
-    "message_id": 101,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610625587,
-    "text": "/hi",
-    "entities": [
-        {
-            "offset": 0,
-            "length": 3,
-            "type": "bot_command"
-        }
-    ]
-}{
-    "message_id": 102,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610625628,
-    "text": "/hi",
-    "entities": [
-        {
-            "offset": 0,
-            "length": 3,
-            "type": "bot_command"
-        }
-    ]
-}{
-    "message_id": 102,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610625628,
-    "text": "/hi",
-    "entities": [
-        {
-            "offset": 0,
-            "length": 3,
-            "type": "bot_command"
-        }
-    ]
-}{
-    "message_id": 102,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610625628,
-    "text": "/hi",
-    "entities": [
-        {
-            "offset": 0,
-            "length": 3,
-            "type": "bot_command"
-        }
-    ]
-}{
-    "message_id": 103,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610625691,
-    "text": "/hi",
-    "entities": [
-        {
-            "offset": 0,
-            "length": 3,
-            "type": "bot_command"
-        }
-    ]
-}{
-    "message_id": 104,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610625871,
-    "text": "/hi",
-    "entities": [
-        {
-            "offset": 0,
-            "length": 3,
-            "type": "bot_command"
-        }
-    ]
-}{
-    "message_id": 105,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610625908,
-    "text": "/hi",
-    "entities": [
-        {
-            "offset": 0,
-            "length": 3,
-            "type": "bot_command"
-        }
-    ]
-}{
-    "message_id": 106,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610625926,
-    "text": "/hi",
-    "entities": [
-        {
-            "offset": 0,
-            "length": 3,
-            "type": "bot_command"
-        }
-    ]
-}{
-    "message_id": 107,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610625988,
-    "text": "/hi",
-    "entities": [
-        {
-            "offset": 0,
-            "length": 3,
-            "type": "bot_command"
-        }
-    ]
-}{
-    "message_id": 108,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610626123,
-    "text": "/hi",
-    "entities": [
-        {
-            "offset": 0,
-            "length": 3,
-            "type": "bot_command"
-        }
-    ]
-}{
-    "message_id": 109,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610626144,
-    "text": "/hi",
-    "entities": [
-        {
-            "offset": 0,
-            "length": 3,
-            "type": "bot_command"
-        }
-    ]
-}{
-    "message_id": 110,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610626157,
-    "text": "/hi",
-    "entities": [
-        {
-            "offset": 0,
-            "length": 3,
-            "type": "bot_command"
-        }
-    ]
-}{
-    "message_id": 111,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610626183,
-    "text": "/hi",
-    "entities": [
-        {
-            "offset": 0,
-            "length": 3,
-            "type": "bot_command"
-        }
-    ]
-}{
-    "message_id": 112,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610626235,
-    "text": "/hi",
-    "entities": [
-        {
-            "offset": 0,
-            "length": 3,
-            "type": "bot_command"
-        }
-    ]
-}{
-    "message_id": 113,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610626367,
-    "text": "/hi",
-    "entities": [
-        {
-            "offset": 0,
-            "length": 3,
-            "type": "bot_command"
-        }
-    ]
-}{
-    "message_id": 113,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610626367,
-    "text": "/hi",
-    "entities": [
-        {
-            "offset": 0,
-            "length": 3,
-            "type": "bot_command"
-        }
-    ]
-}{
-    "message_id": 114,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610626537,
-    "text": "/hi",
-    "entities": [
-        {
-            "offset": 0,
-            "length": 3,
-            "type": "bot_command"
-        }
-    ]
-}{
-    "message_id": 115,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610626603,
-    "text": "/hi",
-    "entities": [
-        {
-            "offset": 0,
-            "length": 3,
-            "type": "bot_command"
-        }
-    ]
-}{
-    "message_id": 115,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610626603,
-    "text": "/hi",
-    "entities": [
-        {
-            "offset": 0,
-            "length": 3,
-            "type": "bot_command"
-        }
-    ]
-}{
-    "message_id": 116,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610626711,
-    "text": "/hi",
-    "entities": [
-        {
-            "offset": 0,
-            "length": 3,
-            "type": "bot_command"
-        }
-    ]
-}{
-    "message_id": 117,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610626999,
-    "text": "/hi",
-    "entities": [
-        {
-            "offset": 0,
-            "length": 3,
-            "type": "bot_command"
-        }
-    ]
-}{
-    "message_id": 118,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610627203,
-    "text": "d"
-}{
-    "message_id": 119,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610627223,
-    "text": "/hi",
-    "entities": [
-        {
-            "offset": 0,
-            "length": 3,
-            "type": "bot_command"
-        }
-    ]
-}{
-    "message_id": 120,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610627252,
-    "text": "/hi",
-    "entities": [
-        {
-            "offset": 0,
-            "length": 3,
-            "type": "bot_command"
-        }
-    ]
-}{
-    "message_id": 121,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610627260,
-    "text": "/hi",
-    "entities": [
-        {
-            "offset": 0,
-            "length": 3,
-            "type": "bot_command"
-        }
-    ]
-}{
-    "message_id": 122,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610627310,
-    "text": "/hi",
-    "entities": [
-        {
-            "offset": 0,
-            "length": 3,
-            "type": "bot_command"
-        }
-    ]
-}{
-    "message_id": 123,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610627472,
-    "text": "/hi",
-    "entities": [
-        {
-            "offset": 0,
-            "length": 3,
-            "type": "bot_command"
-        }
-    ]
-}{
-    "message_id": 124,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610627610,
-    "text": "/hi",
-    "entities": [
-        {
-            "offset": 0,
-            "length": 3,
-            "type": "bot_command"
-        }
-    ]
-}{
-    "message_id": 126,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610627809,
-    "text": "/hi",
-    "entities": [
-        {
-            "offset": 0,
-            "length": 3,
-            "type": "bot_command"
-        }
-    ]
-}{
-    "message_id": 127,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610627835,
-    "text": "/hi",
-    "entities": [
-        {
-            "offset": 0,
-            "length": 3,
-            "type": "bot_command"
-        }
-    ]
-}{
-    "message_id": 128,
-    "from": {
-        "id": 259609589,
-        "is_bot": false,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "language_code": "ru"
-    },
-    "chat": {
-        "id": 259609589,
-        "first_name": "Anton",
-        "last_name": "Gorobets",
-        "username": "cghael",
-        "type": "private"
-    },
-    "date": 1610627986,
+    "date": 1610655155,
     "text": "/hi",
     "entities": [
         {

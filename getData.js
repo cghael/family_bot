@@ -1,26 +1,15 @@
-// var data = require('./data.json');
 
-function getChatData(chat_id, data) {
-    // console.log(data);
-    // console.log("in func " + chat_id);
-    for (let n = 0; n < data.chats.length; n++) {
-        if (chat_id === data.chats[n].id) {
-            // console.log(data.chats[n].users);
-            return data.chats[n].users
-        }
-    }
-    // console.log("HUY");
-    return null;
-}
-
-function searchUserData(userID, users) {
-    for (let user of users) {
-        if (userID === user.id) {
-            return user;
+function searchUserData(chatID, userID, data, callback) {
+    // console.log(1);
+    for (let chat of data.chats) {
+        if (chatID === chat.id) {
+            for (let user of chat.users) {
+                if (userID === user.id)
+                callback(user);
+            }
         }
     }
     return null;
 }
 
-module.exports.getChatData = getChatData;
 module.exports.searchUserData = searchUserData;
