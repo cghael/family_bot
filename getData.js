@@ -1,15 +1,20 @@
-
-function searchUserData(chatID, userID, data, callback) {
-    // console.log(1);
+function searchUserData(msg, data, callback) {
+    console.log("searching...");
     for (let chat of data.chats) {
-        if (chatID === chat.id) {
+        if (msg.chat.id === chat.id) {
             for (let user of chat.users) {
-                if (userID === user.id)
-                callback(user);
+                if (msg.from.id === user.id) {
+                    console.log("user found");
+                    return callback(user, data, msg);
+                }
             }
+            console.log("no user");
+            return callback(null, data, msg);
         }
     }
-    return null;
+    console.log("no chat id");
+    //add chat to file
+    // callback(null, data, msg);
 }
 
-module.exports.searchUserData = searchUserData;
+module.exports.searchUser = searchUserData;
