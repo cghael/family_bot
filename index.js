@@ -21,7 +21,7 @@ const bot = new tgramBot(TOKEN, {
 
 bot.on('message', msg => {
     let user = help.listenNew(data, msg.from.id);
-    if (user.wait != undefined && user.wait > 0) {
+    if (user.wait != undefined && user.wait > 0 && msg.text[0] != "/") {
         wait.waitHandler(bot, msg, user);
         user.wait = 0;
         clearTimeout(user.timer);
