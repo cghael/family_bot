@@ -1,3 +1,5 @@
+const fs = require('fs');
+
 function searchUserData(msg, data, callback) {
     console.log("searching...");
     for (let chat of data.chats) {
@@ -13,8 +15,13 @@ function searchUserData(msg, data, callback) {
         }
     }
     console.log("no chat id");
-    //add chat to file
-    // callback(null, data, msg);
+    saveChatID(msg.chat.id, data);
+    return callback(null, data, msg);
+}
+
+function saveChatID(chatID, data) {
+    data.chats.push({id: chatID}, {users: []});
+    fs.writeFileSync('data.json', JSON.stringify(data, null, 4));
 }
 
 module.exports.searchUser = searchUserData;
