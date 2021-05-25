@@ -7,7 +7,7 @@ const fs = require('fs');
 const data = require('./data.json');
 const { clear, time } = require('console');
 
-const TOKEN = '1557772361:AAHMAKKfWgX8HuFZDZrU6elAXLgE6zCPvf0';
+const TOKEN = ;
 
 const bot = new tgramBot(TOKEN, {
     polling: {
